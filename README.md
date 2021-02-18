@@ -29,13 +29,13 @@ Feedback/comment/suggestions : https://slaserx.dev Author Ivan Bachvarov a.k.a S
 
 <b>XtreamCode auto install script v1.0.1 - RELEASE</b>
 
-XtreamCode 1.60
-Removed all Backdoors
-Patched Version 1.0rc
-fixed a lot of errors
-Implemented support for Ubuntu 18
-Added new mag devices support
-Fix bugs
+* XtreamCode 1.60
+* Removed all Backdoors
+* Patched Version 1.0rc
+* fixed a lot of errors
+* Implemented support for Ubuntu 18
+* Added new mag devices support
+* Fix bugs
 
 #How to Install
 
