@@ -37,8 +37,8 @@ Feedback/comment/suggestions : https://slaserx.dev Author Ivan Bachvarov a.k.a S
 * Added new mag devices support
 * Fix bugs
 
-#How to Install
+#How to Install</br>
 
-upload xc18.zip file on your server
-unzip xc18.zip cd xc18
-chmod +x install run with root ./install
+upload xc18.zip file on your server</br>
+unzip xc18.zip cd xc18</br>
+chmod +x install run with root ./install</br>
