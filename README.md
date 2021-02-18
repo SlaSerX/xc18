@@ -42,3 +42,5 @@ Feedback/comment/suggestions : https://slaserx.dev Author Ivan Bachvarov a.k.a S
 upload xc18.zip file on your server</br>
 unzip xc18.zip cd xc18</br>
 chmod +x install run with root ./install</br>
+
+[![Click to Watch](https://img.youtube.com/vi/WADOz4-lEGY/0.jpg)](https://youtu.be/WADOz4-lEGY "Click to Watch")
